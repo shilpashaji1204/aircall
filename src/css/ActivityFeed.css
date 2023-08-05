@@ -1,0 +1,16 @@
+.call-list {
+    border: 5px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .call-list h1 {
+    text-align: center;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .call-list-items {
+    height: 450px;
+  }
